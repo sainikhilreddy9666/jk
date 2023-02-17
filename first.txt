@@ -1,1 +1,1 @@
-this is my 1st practice file that i want to explore git
+just added some text in fornt of the text file provided this is my 1st practice file that i want to explore git
