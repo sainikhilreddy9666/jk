@@ -1,2 +1,4 @@
  this is to check with merg cmd
  from base branch
+
+<i have used a new branch called ft1 and edited a new line in "<>">
