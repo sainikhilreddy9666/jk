@@ -1,3 +1,5 @@
 just added some text in fornt of the text file provided this is my 1st practice file that i want to explore git
 
 a new line of text is added ti first.txt file in order to update it into rebase branch
+
+/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourcegroups/databricks-rg/providers/Microsoft.KeyVault/vaults/databricksKV
